@@ -14,6 +14,28 @@ h1 {
   font-size: 5rem;
 }
 
+.right {
+  width: 566px;
+  height: 261px;
+}
+
+.left {
+  width: 566px;
+  height: 261px;
+}
+
+.left > img {
+  float:left;
+}
+
+.right > img {
+  float:left;
+}
+
+.tile-image{
+  width: 300px;
+  height: 200px;
+}
 footer {
   text-align: right;
   color: midnightblue;
