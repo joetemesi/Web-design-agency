@@ -77,6 +77,12 @@ footer {
     text-align: center;
     justify-content: center;
   }
+  .left{
+    width:100%;
+  }
+  .right {
+    width: 100%;
+  }
   .left > img {
     display:block;
     width: 100%;
@@ -98,11 +104,22 @@ footer {
     justify-content: left;
     width: 100%;
     margin-bottom: 100px;
+    height: 100%;
+    
   }
   footer {
+    margin-top: 50px!important;
     text-align: right;
+    position: relative;
+    top: 120px;
+    
+  }
+
+  .main {
+    height: 100%;
   }
 }
+
 
 
 
