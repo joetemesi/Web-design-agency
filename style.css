@@ -105,16 +105,13 @@ footer {
     width: 100%;
     margin-bottom: 100px;
     height: 100%;
-    
   }
   footer {
     margin-top: 50px!important;
     text-align: right;
     position: relative;
     top: 120px;
-    
   }
-
   .main {
     height: 100%;
   }
